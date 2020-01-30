@@ -1,4 +1,4 @@
-package domain;
+package com.baranowski.bartosz.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
