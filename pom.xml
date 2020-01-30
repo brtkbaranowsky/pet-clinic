@@ -117,6 +117,7 @@
                 <version>${maven-release-plugin.version}</version>
                 <configuration>
                     <goals>install</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
